@@ -1,3 +1,14 @@
+h1 {
+    font: bold 34px Arial;
+    color: rgb(103, 30, 172);
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font: bold 20px Arial;
+    color: rgb(103, 30, 172);
+}
+
 * {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
